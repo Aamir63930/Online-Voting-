@@ -3,7 +3,13 @@ Online Voting System in Python
 
 **Online Voting System in Python**
 
-This project is a simple yet effective online voting system built using Python. It allows users to cast their votes securely and ensures that each user can vote only once. The system can be used for small-scale elections such as school elections, club polls, or community decisions.
+This project is a simple yet effective online voting system built using Python. It allows users to cast their votes securely and ensures that each user can vote only once. The system can be used for small-scale elections such as school elections, club polls, or community decisions.1
+
+**Members**
+- Aamir (2401730238)
+- Devi Singh (2401730260)
+- Mankameshvar Mishra (2401730234)
+- Tushar (2401730166)
 
 **Key Features:**
 
